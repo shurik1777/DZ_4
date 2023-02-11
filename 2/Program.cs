@@ -3,9 +3,14 @@
 // 2, 3, 7 -> 7
 // 44 5 78 -> 78
 // 22 3 9 -> 22
-int a = 22;
-int b = 3;
-int c = 9;
+Console.Write("Введите число a: ");
+int a = Convert.ToInt32(Console.ReadLine()); // Ввели число A
+
+Console.Write("Введите число b: ");
+int b = Convert.ToInt32(Console.ReadLine()); // Ввели число B
+
+Console.Write("Введите число b: ");
+int c = Convert.ToInt32(Console.ReadLine()); // Ввели число C
 
 int max = a;
 
