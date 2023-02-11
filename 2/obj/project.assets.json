@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ucheba\\2\\2.csproj",
+      "projectUniqueName": "D:\\Ucheba\\All\\2\\2.csproj",
       "projectName": "2",
-      "projectPath": "D:\\Ucheba\\2\\2.csproj",
+      "projectPath": "D:\\Ucheba\\All\\2\\2.csproj",
       "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-      "outputPath": "D:\\Ucheba\\2\\obj\\",
+      "outputPath": "D:\\Ucheba\\All\\2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config"
