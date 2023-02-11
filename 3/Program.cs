@@ -3,3 +3,14 @@
 // 4 -> да
 // -3 -> нет
 // 7 -> нет
+Console.Write("Введите число N: ");
+int N = Convert.ToInt32(Console.ReadLine()); // Ввели число N
+
+if(N%2 == 0)
+{
+    Console.WriteLine("Yes");
+}
+else
+{
+    Console.WriteLine("No");
+}
