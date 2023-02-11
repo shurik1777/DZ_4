@@ -3,11 +3,15 @@
 // a = 5; b = 7 -> max = 7
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
-int a = -9;
-int b = -3;
 
+Console.Write("Введите число a: ");
+int a = Convert.ToInt32(Console.ReadLine()); // Ввели число N
+
+Console.Write("Введите число b: ");
+int b = Convert.ToInt32(Console.ReadLine()); // Ввели число N
 int max = a;
 int min = a;
+
 if (a > max ) max = a;
 if (b > max ) max = b;
 if (a < min ) min = a;
