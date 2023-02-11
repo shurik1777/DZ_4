@@ -5,10 +5,10 @@
 // a = -9 b = -3 -> max = -3
 
 Console.Write("Введите число a: ");
-int a = Convert.ToInt32(Console.ReadLine()); // Ввели число N
+int a = Convert.ToInt32(Console.ReadLine()); // Ввели число a
 
 Console.Write("Введите число b: ");
-int b = Convert.ToInt32(Console.ReadLine()); // Ввели число N
+int b = Convert.ToInt32(Console.ReadLine()); // Ввели число b
 int max = a;
 int min = a;
 
@@ -17,8 +17,8 @@ if (b > max ) max = b;
 if (a < min ) min = a;
 if (b < min ) min = b;
 
-Console.Write("max = ");
+Console.Write("Большее число = ");
 Console.WriteLine(max);
 
-Console.Write("min = ");
+Console.Write("Меньшее число = ");
 Console.WriteLine(min);
