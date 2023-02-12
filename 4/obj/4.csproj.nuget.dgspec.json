@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ucheba\\4\\4.csproj": {}
+    "D:\\Ucheba\\All\\4\\4.csproj": {}
   },
   "projects": {
-    "D:\\Ucheba\\4\\4.csproj": {
+    "D:\\Ucheba\\All\\4\\4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ucheba\\4\\4.csproj",
+        "projectUniqueName": "D:\\Ucheba\\All\\4\\4.csproj",
         "projectName": "4",
-        "projectPath": "D:\\Ucheba\\4\\4.csproj",
+        "projectPath": "D:\\Ucheba\\All\\4\\4.csproj",
         "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-        "outputPath": "D:\\Ucheba\\4\\obj\\",
+        "outputPath": "D:\\Ucheba\\All\\4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config"
